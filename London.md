@@ -1,0 +1,8 @@
+London ITP Cohort september 2026 that will be going on for 4 month.
+Every Saturday there will be class which is mandatory.
+The venue where the class happens for London cohort is in Brixton.
+There is a good habesha coffee shops near the venue.
+London is a Beautiful city and with a diverse population.
+
+![alt text]C:\Users\HABel\git-practice-ticket\london.webp
+
