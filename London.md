@@ -6,4 +6,4 @@ London is a Beautiful city and with a diverse population.
 
 ![alt text](https://github.com/MaharitB/git-practice-ticket/blob/main/london.webp)
 
-![alt text](C:\Users\HABel\Downloads\london.webp)
+![London image](C:\Users\HABel\Downloads\london.webp)
