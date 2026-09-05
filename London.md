@@ -9,4 +9,4 @@ London is a Beautiful city and with a diverse population.
 
 /*![London image](C:\Users\HABel\Downloads\london.webp)*/
 
-![london image] (C:\Users\HABel\git-practice-ticket\OIP.jpg)
+![london image](C:\Users\HABel\git-practice-ticket\OIP.jpg)
